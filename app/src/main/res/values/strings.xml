@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">NewsApp</string>
+    <string name="home_tab">Home</string>
+    <string name="headline_tab">Headlines</string>
+    <string name="trending_tab">Trending</string>
+    <string name="bookmark_tab">Bookmarks</string>
+    <string name="tab_world">World</string>
+    <string name="tab_business">Business</string>
+    <string name="tab_politics">Politics</string>
+    <string name="tab_sports">Sports</string>
+    <string name="tab_technology">Technology</string>
+    <string name="tab_science">Science</string>
+    <string name="fetching_news">Fetching News</string>
+    <string name="no_bookmarks">No Bookmarked Articles</string>
+    <string name="enter_search_term">Enter Search Term:</string>
+    <string name="coronavirus">Coronavirus</string>
+
+</resources>
